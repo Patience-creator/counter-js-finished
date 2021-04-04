@@ -1,0 +1,16 @@
+.btn{
+    padding: 1.2rem 3.8rem;
+    font-size: 2.1rem;
+    line-height: 3rem;
+    font-weight: 500;
+    
+    display: inline-block;
+    
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    background-color: #4f1fff;
+    border: 0.2rem solid #4f1fff;
+    transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+    cursor: pointer;
+}
